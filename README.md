@@ -1,5 +1,7 @@
 # Columbia Android App
 
+Special thanks to flaticon.com for the icons as well as Heads First: Android Development and the Android Cookbook for teaching me.
+
 For images/screenshots of the app, please see the /screenshots folder
 
 ![Start](screenshots/Screenshot_1556022870.png)
