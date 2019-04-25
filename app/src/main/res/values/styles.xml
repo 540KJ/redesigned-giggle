@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorColumbiaBlue3</item>
+        <item name="colorPrimaryDark">@color/colorColumbiaBlue2</item>
+        <item name="colorAccent">@color/colorSecondaryGrey</item>
+    </style>
+    <style name="generalnotitle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorColumbiaBlue3</item>
+        <item name="colorPrimaryDark">@color/colorColumbiaBlue2</item>
+        <item name="colorAccent">@color/colorSecondaryGrey</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+        <item name="colorPrimary">@color/colorColumbiaBlue3</item>
+        <item name="colorPrimaryDark">@color/colorColumbiaBlue2</item>
+        <item name="colorAccent">@color/colorSecondaryGrey</item>
+    </style>
+    
+    <style name="Theme.Columbia" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorColumbiaBlue3</item>
+        <item name="colorPrimaryDark">@color/colorColumbiaBlue2</item>
+        <item name="colorAccent">@color/colorSecondaryGrey</item>
+    </style>
+
+    <style name="Widget.Columbia.Backdrop" parent="">
+        <item name="android:background">?attr/colorAccent</item>
+    </style>
+
+    <style name="Widget.Columbia.Button.TextButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+</resources>

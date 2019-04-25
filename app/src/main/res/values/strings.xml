@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Columbia</string>
+    <string name="columbia_logo">Columbia University Logo</string>
+    <string name="news_icon">News</string>
+    <string name="events_icon">Events</string>
+    <string name="map_icon">Map</string>
+    <string name="loading">Loading</string>
+    <string name="course_catalog">Course Catalog</string>
+    <string name="dining_icon">Dining</string>
+    <string name="housing_icon">Housing</string>
+    <string name="booking_icon">Classroom Bookings</string>
+    <string name="student_services_icon">Student Services</string>
+    <string name="building_services_icon">Building Services</string>
+    <string name="library_icon">Libraries</string>
+    <string name="story">Story</string>
+    <string name="events">Events</string>
+    <string name="event">Event</string>
+
+
+    <string name="icon_size">90dp</string>
+</resources>

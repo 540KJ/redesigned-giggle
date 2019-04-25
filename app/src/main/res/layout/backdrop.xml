@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/news_icon"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/events_icon"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/course_catalog"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dining_icon"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/housing_icon"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/booking_icon"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/library_icon"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/student_services_icon"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Columbia.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/building_services_icon"/>
+
+</merge>

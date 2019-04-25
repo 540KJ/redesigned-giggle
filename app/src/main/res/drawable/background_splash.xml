@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/colorColumbiaBlue3"/>
+
+    <item>
+        <bitmap
+        android:src="@drawable/college_crown_white_rgb"
+        android:gravity="center"/>
+    </item>
+
+</layer-list>
