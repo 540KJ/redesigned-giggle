@@ -1,6 +1,9 @@
 # Columbia Android App
 
-Special thanks to flaticon.com for the icons as well as Heads First: Android Development and the Android Cookbook for teaching me.
+This project was made as part of an undergraduate application to Columbia University for admission in 2019.
+
+
+Special thanks to flaticon.com for the icons as well as Heads First: Android Development and the Android Cookbook for all the information needed to code up this app from scratch.
 
 For images/screenshots of the app, please see the /screenshots folder
 
